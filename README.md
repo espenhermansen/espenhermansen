@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Tietoevry consultant 
-- 🌱 I’m currently learning IAC, Kubernetes and Azure
-
+- 🔭 I’m currently working as a Devoteam consultant 
+- 🛡️ Working with Cloud Security
+- 👨‍💻 With technologies such as IAC, Kubernetes and Azure
